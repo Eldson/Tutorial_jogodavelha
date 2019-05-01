@@ -1,0 +1,33 @@
+.board-row{
+    
+    width: 300px;
+    height: 100px;
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+.quadrado{
+    width: 83px;
+    height: 83px;
+    
+    margin: 8px;
+    background-color: rgba(180, 200, 129, 0.5)
+}
+
+li button  {
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(180, 200, 129);
+    width: 200px;
+    height: 30px;
+    font-size: 17px;
+}
+
+.jogo{
+    margin-top: 50px;
+    margin-left: 150px;
+    position: center;
+}
+
+
